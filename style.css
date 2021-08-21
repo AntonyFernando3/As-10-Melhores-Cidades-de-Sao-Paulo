@@ -174,3 +174,52 @@ height: 200px;
 font-size: 0%;
 }
 }
+
+@media screen and (min-width: 320px){
+.titulos h1{
+margin-bottom: 2.5em;
+display: flex;
+align-items: center;
+text-align: center;    
+width: 382px;
+height: 577px;
+font-size: 0%;
+}
+}
+
+@media screen and (min-width: 350px){
+.textodohino h1{
+margin-bottom: 2.5em;
+display: flex;
+align-items: center;
+text-align: center;
+width: 382px;
+height: 577px;
+font-size: 0%;
+}
+}
+
+@media screen and (min-width: 320px){
+.newsletter h1{
+margin-bottom: 2.5em;
+display: flex;
+align-items: center;
+text-align: center;
+width: 382px;
+height: 577px;
+font-size: 0%;
+}
+}
+
+@media screen and (min-width: 320px){
+.rodape h1{
+margin-bottom: 2.5em;
+display: flex;
+align-items: center;
+text-align: center;
+width: 382px;
+height: 577px;
+font-size: 0%;
+}
+}
+
